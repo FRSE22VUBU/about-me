@@ -47,6 +47,6 @@ ul{
     font-size: 60px;
     transition: all ease-in-out 250ms;
 }
-.box lia:hover{
+.box li a:hover{
     color: #b9b9b9;
 }
